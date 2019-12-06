@@ -1,5 +1,2 @@
 # dash-r
-drafts for dash-r
-```r
-source(app_LASSO.R)
-```
+drafts for dash-r, a draft can be found as `app_LASSO.R`
